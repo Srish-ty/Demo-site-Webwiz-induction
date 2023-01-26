@@ -22,14 +22,14 @@ body{
     margin: 2vw;
     padding: 1vw;
     border-radius: 0px;
-    border-bottom: 2px solid #f0f0f0;
+    border-bottom: 2px solid aliceblue;
    
 }
 
 .tabs:hover{
     color: #1c8077;
     
-    background-color: #f0f0f0;
+    background-color: aliceblue;
     box-shadow: 0px 0px 10px 2px #124d45;
     border-radius: 5px;
 
@@ -42,7 +42,7 @@ body{
     margin: auto;
     width: 50%;
 
-    border: 0px solid navy;
+    border: 1px solid red;
     padding: 2vw;
 }
 #heading{
@@ -51,7 +51,7 @@ body{
 
 #first{
     display: block;
-    border: 0px solid navy;
+    border: 1px solid red;
     position: relative;
     
     margin: auto;
@@ -65,17 +65,17 @@ body{
     margin: 2vw;
     margin-left: 5vw; margin-right: 3vw;
     color: #124d45;
-    background-color: aliceblue;
+    background-color: #a4ecec;
     padding: 1vw;
     border: 3px solid #16665f ;
     border-radius: 10px;
 }
 .btn:hover{
-    color: aliceblue;
+    color: #a4ecec;
     background-color: #124d45;
-    border-color: aliceblue;
+    border-color: #a4ecec;
     
-    box-shadow: 0px 0px 10px 3px #124d45;
+    box-shadow: 0px 0px 15px 3px #124d45;
 }
 
 
@@ -96,7 +96,7 @@ body{
     font-weight: bold;
     font-size: large;
     display: block;
-    border: 0px solid navy;
+    border: 1px solid red;
     position: relative;
     
     margin: auto;
