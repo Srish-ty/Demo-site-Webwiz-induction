@@ -1,0 +1,92 @@
+﻿A.Technical Tasks
+First Years
+Build a simple website that must include the following components/features:-
+1. A home page should include a navbar, a footer, a basic heading and a paragraph below it, and some buttons.
+2. The buttons should have the following functionalities:
+   1. A “Prompt” button that will prompt “Welcome!” when a user clicks on it. 
+   2. Change the background color after clicking on the “Change BG” button.
+   3. Change the heading text after clicking the “Change Heading” button. The text should change after exactly 5 seconds, rather than changing instantly.
+3. Display the current date and time.
+Tech stacks to be used:
+1. HTML
+2. CSS
+3. JS
+Note: You should write the code with complete understanding and no plagiarism. 
+
+
+Code should be deployed on GitHub.
+Deadline: 24 Jan 2023, 11:59 pm
+
+
+Second Years
+1. Create a portfolio website to create your tech profile
+2. Fetch the given API and use a simple UI to present all the data fields fetched by you. API: https://jsonplaceholder.typicode.com/users
+Tech stacks to be used:
+1. ReactJS
+2. TailwindCSS
+3. Any other library you may need
+Note: You should write the code with complete understanding and no plagiarism. 
+
+
+Code should be uploaded on github and the websites must be deployed.
+
+
+Deadline: 24 Jan 2023, 11:59 pm
+
+
+
+
+B. Design tasks (Any 2 of the 3)
+
+
+1. Design a landing page for a college hackathon focused on Web3 (desktop view only). You can use references when you are designing the website's UI. You are welcome to use any stock images, animations, or other kinds of visual assets.
+
+
+Some references:
+https://tsechacks.tseccodecell.com 
+https://hackathon.sdslabs.co/ 
+https://www.desci.london/ 
+
+
+Deadline: 24 Jan 2023, 11:59 pm
+
+
+2. Design the landing page for a college fest focused on Art and Culture (mobile view only). You can use references when you are designing the mobile UI.
+
+
+Some references:
+https://dribbble.com/shots/18936800-Pride-Fest 
+https://dribbble.com/shots/17440920-Rock-Fest-Hero-Exploration 
+
+
+Deadline: 24 Jan 2023, 11:59 pm
+
+
+3. Design an Instagram post for an online webinar with the required details:
+
+
+Topic: Analysis of Algorithms from Zero to Hero
+Speaker: Mr. Sandeep Jain (Founder of GfG)
+Date: 28 January 2023
+Platform: Zoom
+
+
+You are welcome to use any kind of visual asset. Designs created directly from Canva templates with no significant design changes, on the other hand, may result in disqualification.
+
+
+Preferable software- Figma, Photoshop
+
+
+Deadline: 24 Jan 2023, 11:59 pm
+
+
+
+
+C. Content Task
+
+
+1. Go through the posts of our Instagram Handle and then write a caption for one of our posts
+2. Read any technical blog of your choice and summarise it in your own words..
+
+
+Deadline: 24 Jan 2023, 11:59 pm
