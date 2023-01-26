@@ -37,6 +37,13 @@ btnc.addEventListener("click", ()=>{
 });
 
 
+setInterval(()=>{
+let clock= document.getElementById('second');
+let dt= new Date();
+clock.innerHTML= dt;
+
+}, 1000);
+
 
 }
 /* function prom(){
