@@ -42,7 +42,7 @@ body{
     margin: auto;
     width: 50%;
 
-    border: 1px solid red;
+    border: 0px solid red;
     padding: 2vw;
 }
 #heading{
@@ -51,7 +51,7 @@ body{
 
 #first{
     display: block;
-    border: 1px solid red;
+    border: 0px solid red;
     position: relative;
     
     margin: auto;
@@ -96,7 +96,7 @@ body{
     font-weight: bold;
     font-size: large;
     display: block;
-    border: 1px solid red;
+    border: 0px solid red;
     position: relative;
     
     margin: auto;
