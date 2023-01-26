@@ -90,14 +90,15 @@ body{
 
 #second{
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
+    font-size: large;
     display: block;
     border: 1px solid navy;
     position: relative;
     
     margin: auto;
     width: 50%;
-    top: 8vw;
+    top: 8.5vw;
 
     padding: 1vw;
 
