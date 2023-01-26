@@ -5,25 +5,87 @@ body{
 #navi{
     padding: 1.5vw;
     display: block;
-    width: 100vw;
-    height: 2vw;
     background-color: #1c8077;
-    position: fixed;
+    position: absolute;
     top: 0vw; left:0vw;
     
     border: 0px solid red;
 }
+
+@media screen and (min-width: 800px) {
+    #navi {
+        height: 2vw;    
+        width: 97vw;
+    }
+    .tabs{
+        margin: 2vw;
+        padding: 1vw;    
+        border-bottom: 2px solid aliceblue;
+    }
+    #head{
+        top: 5vw;
+    }
+    #first{
+        top:6.5vw;
+        width: 50%;
+    }
+    #second{
+        top: 8.5vw;
+        width: 50%;    
+        padding: 1vw;
+    }
+  }
+
+
+
+@media screen and (max-width: 800px) {
+    #navi {
+        height: 25vw;
+        padding-top: 0.5vw;
+        width: 97vw;
+    }
+    .tabs{
+        display: block;
+        margin-left: 5vw;
+        height: 2vw;
+        width: 80vw;
+        padding: 2vw;
+        border-bottom: 1px solid aliceblue;
+    }
+    #head{
+        top: 25vw;
+    }
+    #first{
+        top: 22vw;
+        border: 0px solid red;
+        width: 70%;
+    }
+    #second{
+        top:22vw;
+        width: 80%;
+        padding: 2vw;
+    }
+
+}
+
+@media screen and (max-width: 600px) {
+    #navi{
+        width: 94vw;
+    }
+}
+@media screen and (max-width: 600px) {
+    #navi{
+        width: 93.5vw;
+    }
+}
+
 
 .tabs{
     text-decoration: none;
     color:#f0f0f0 ;
     
     background-color: inherit;
-    margin: 2vw;
-    padding: 1vw;
     border-radius: 0px;
-    border-bottom: 2px solid aliceblue;
-   
 }
 
 .tabs:hover{
@@ -38,7 +100,6 @@ body{
 #head{
     display: block;
     position: relative;
-    top: 5vw;
     margin: auto;
     width: 50%;
 
@@ -49,15 +110,11 @@ body{
     text-align: center;
 }
 
+
 #first{
     display: block;
-    border: 0px solid red;
     position: relative;
-    
     margin: auto;
-    width: 50%;
-    top: 6.5vw;
-
     padding: 1vw;
     
 }
@@ -100,9 +157,5 @@ body{
     position: relative;
     
     margin: auto;
-    width: 50%;
-    top: 8.5vw;
-
-    padding: 1vw;
 
 }
