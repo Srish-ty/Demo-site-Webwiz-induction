@@ -41,8 +41,12 @@ body{
     top: 5vw;
     margin: auto;
     width: 50%;
+
     border: 1px solid navy;
     padding: 2vw;
+}
+#heading{
+    text-align: center;
 }
 
 #first{
@@ -52,7 +56,7 @@ body{
     
     margin: auto;
     width: 50%;
-    top: 7vw;
+    top: 6.5vw;
 
     padding: 1vw;
     
@@ -70,4 +74,31 @@ body{
     color: aliceblue;
     background-color: #124d45;
     border-color: aliceblue;
+}
+
+
+#footer { 
+    padding: 1.5vw;
+    display: block;
+    width: 100vw;
+    height: 1.5vw;
+    background-color: #1c8077;
+    position: fixed;
+    bottom: 0vw; left:0vw;
+    border-top: 2px solid #f0f0f0;
+}
+
+#second{
+    color: white;
+    font-weight: bolder;
+    display: block;
+    border: 1px solid navy;
+    position: relative;
+    
+    margin: auto;
+    width: 50%;
+    top: 8vw;
+
+    padding: 1vw;
+
 }
