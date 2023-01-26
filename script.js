@@ -1,7 +1,13 @@
 
 window.onload=()=>
 {
-    
+
+var i=1; 
+const hdng =()=>{
+    let hdn = document.querySelector('#heading');
+    hdn.innerHTML = `The New Heading no. ${i++}!`;
+}
+
     
 const btna = document.getElementById("a");
 const btnb = document.getElementById("b");
@@ -13,7 +19,7 @@ btna.addEventListener("click",()=>{
 
 
 btnb.addEventListener("click", ()=>{
-    //let target= document.querySelector('#first');
+    
     let bod = document.body;
     
     if(bod.style.backgroundColor=='grey'){
