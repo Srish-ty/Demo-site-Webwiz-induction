@@ -68,14 +68,16 @@ body{
 
 }
 
-@media screen and (max-width: 600px) {
-    #navi{
-        width: 94vw;
-    }
-}
+
 @media screen and (max-width: 600px) {
     #navi{
         width: 93.5vw;
+    }
+}
+
+@media screen and (max-width: 470px) {
+    #navi{
+        width: 96vw;
     }
 }
 
