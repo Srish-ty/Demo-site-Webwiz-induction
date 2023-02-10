@@ -8,8 +8,20 @@ body{
     background-color: #1c8077;
     position: absolute;
     top: 0vw; left:0vw;
+    padding: auto;
     
     border: 0px solid red;
+}
+
+
+
+
+.tabs{
+    text-decoration: none;
+    color:#f0f0f0 ;
+    
+    background-color: inherit;
+    border-radius: 0px;
 }
 
 @media screen and (min-width: 800px) {
@@ -83,13 +95,6 @@ body{
 */
 
 
-.tabs{
-    text-decoration: none;
-    color:#f0f0f0 ;
-    
-    background-color: inherit;
-    border-radius: 0px;
-}
 
 .tabs:hover{
     color: #1c8077;
